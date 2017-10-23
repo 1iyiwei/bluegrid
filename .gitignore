@@ -1,0 +1,11 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz*
+quick.pdf
+draft.pdf
+final.pdf
+uist.pdf
+siggraph.pdf
+arxiv.pdf
