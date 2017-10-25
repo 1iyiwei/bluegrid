@@ -6,6 +6,9 @@
 #define SELF_SIMILAR_H
 #include <algorithm>
 #include <fstream>
+#include <vector>
+#include <cmath>
+using namespace std;
 
 struct Point {
     double x, y;
